@@ -1,6 +1,5 @@
 
 # Snake2.0
-This is the famous snake game, taking the skeleton from "OttoBotCode" and made some twist improvements so i call it "Snake2.0".
 
 
 
@@ -10,15 +9,15 @@ This is the famous snake game, taking the skeleton from "OttoBotCode" and made s
 
 ![App Screenshot](https://imgtr.ee/images/2023/09/16/45ae6c373883a24ebc048557ddec35b0.png)
 
+## Description
+
+This is the famous snake game, taking the skeleton from "OttoBotCode" and made some twist improvements so i call it "Snake2.0".
 
 ## TechStack
 
 ![C#](https://skillicons.dev/icons?i=cs)
 
 
-## Description
-
-This is the famous snake game, taking the skeleton from "OttoBotCode" and made some twist improvements so i call it "Snake2.0".
 
 ## Instructions
 
@@ -36,11 +35,6 @@ This is the famous snake game, taking the skeleton from "OttoBotCode" and made s
 ## Contributing
 
 Please feel free to send me your ideas or suggestions, feedback or feature requests or improvements, I would love to hear from you!
-
-## Licença
-
-Snake 2.0 is released under the [MIT](https://choosealicense.com/licenses/mit/) license.
-
 
 ## Features
 
@@ -67,3 +61,8 @@ This food will invert keyboard for 5 seconds and scores goes up 2+
 ## Download
 
 Go to the [Releases](https://github.com/luissantos88/Snake2.0/releases/tag/Latest) to download the latest JAR.
+
+## Licença
+
+Snake 2.0 is released under the [MIT](https://choosealicense.com/licenses/mit/) license.
+
