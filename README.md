@@ -7,7 +7,7 @@
 
 
 
-![App Screenshot](https://imgtr.ee/images/2023/09/16/45ae6c373883a24ebc048557ddec35b0.png)
+![App Screenshot](https://imgtr.ee/images/2023/09/16/024e05ecc924248dd001868a5974aa66.png)
 
 ## Description
 
