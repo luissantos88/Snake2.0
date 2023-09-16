@@ -13,11 +13,9 @@
 
 This is the famous snake game, taking the skeleton from "OttoBotCode" and made some twist improvements so i call it "Snake2.0".
 
-## TechStack
+## Download
 
-![C#](https://skillicons.dev/icons?i=cs)
-
-
+Go to the [Releases](https://github.com/luissantos88/Snake2.0/releases/tag/Latest) to download Snake2.0
 
 ## Instructions
 
@@ -32,9 +30,12 @@ This is the famous snake game, taking the skeleton from "OttoBotCode" and made s
 5.Play the game
 
 - If you can't run the game check your anti-virus
-## Contributing
 
-Please feel free to send me your ideas or suggestions, feedback or feature requests or improvements, I would love to hear from you!
+## TechStack
+
+![C#](https://skillicons.dev/icons?i=cs)
+
+
 
 ## Features
 
@@ -57,10 +58,9 @@ This food will invert keyboard for 5 seconds and scores goes up 2+
 - After eat blue food need to wait 5 seconds till next random food.
 
 
+## Contributing
 
-## Download
-
-Go to the [Releases](https://github.com/luissantos88/Snake2.0/releases/tag/Latest) to download the latest JAR.
+Please feel free to send me your ideas or suggestions, feedback or feature requests or improvements, I would love to hear from you!
 
 ## Licença
 
