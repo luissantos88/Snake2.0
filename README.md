@@ -31,13 +31,15 @@ This is the famous snake game, taking the skeleton from "OttoBotCode" and made s
 4.It will install the necessary to run the game
 
 5.Play the game
+
+- If you can't run the game check your anti-virus
 ## Contributing
 
 Please feel free to send me your ideas or suggestions, feedback or feature requests or improvements, I would love to hear from you!
 
 ## Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Snake 2.0 is released under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
 
 ## Features
@@ -56,9 +58,9 @@ This food will invert keyboard for 5 seconds and scores goes up 2+
 ![App Screenshot](https://imgtr.ee/images/2023/09/16/b8cd3f956a008a7e3552ba7d795078ec.png)
 
 
-Green and blue food if not eaten gamed will generate new random food.
+- Green and blue food if not eaten gamed will generate new random food.
 
-After eat blue food need to wait 5 seconds till next random food.
+- After eat blue food need to wait 5 seconds till next random food.
 
 
 
