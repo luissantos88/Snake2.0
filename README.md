@@ -7,7 +7,7 @@
 
 
 
-![App Screenshot](http://185.240.248.101/images/snakeGame.png)
+![App Screenshot](https://185.240.248.101/images/snakeGame.png)
 
 ## Description
 
