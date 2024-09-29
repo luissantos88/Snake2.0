@@ -1,13 +1,7 @@
 
 # Snake2.0
 
-
-
-
-
-
-
-![App Screenshot](https://185.240.248.101/images/snakeGame.png)
+![snakeGame](https://github.com/user-attachments/assets/f4d4411a-79cc-49fc-9635-3d855b2866e6)
 
 ## Description
 
