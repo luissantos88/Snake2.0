@@ -7,7 +7,7 @@
 
 
 
-![App Screenshot](ftp://luissant@185.240.248.101/images/snakeGame.png)
+![App Screenshot](luissant@185.240.248.101/images/snakeGame.png)
 
 ## Description
 
