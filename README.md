@@ -7,7 +7,7 @@
 
 
 
-![App Screenshot](https://imgtr.ee/images/2023/09/16/024e05ecc924248dd001868a5974aa66.png)
+![App Screenshot](ftp://luissant@185.240.248.101/images/snakeGame.png)
 
 ## Description
 
